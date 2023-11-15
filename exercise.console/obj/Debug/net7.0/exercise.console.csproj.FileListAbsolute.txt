@@ -1,0 +1,14 @@
+D:\_BooleanDocker\DockerConsole\exercise.console\bin\Debug\net7.0\exercise.console.exe
+D:\_BooleanDocker\DockerConsole\exercise.console\bin\Debug\net7.0\exercise.console.deps.json
+D:\_BooleanDocker\DockerConsole\exercise.console\bin\Debug\net7.0\exercise.console.runtimeconfig.json
+D:\_BooleanDocker\DockerConsole\exercise.console\bin\Debug\net7.0\exercise.console.dll
+D:\_BooleanDocker\DockerConsole\exercise.console\bin\Debug\net7.0\exercise.console.pdb
+D:\_BooleanDocker\DockerConsole\exercise.console\obj\Debug\net7.0\exercise.console.GeneratedMSBuildEditorConfig.editorconfig
+D:\_BooleanDocker\DockerConsole\exercise.console\obj\Debug\net7.0\exercise.console.AssemblyInfoInputs.cache
+D:\_BooleanDocker\DockerConsole\exercise.console\obj\Debug\net7.0\exercise.console.AssemblyInfo.cs
+D:\_BooleanDocker\DockerConsole\exercise.console\obj\Debug\net7.0\exercise.console.csproj.CoreCompileInputs.cache
+D:\_BooleanDocker\DockerConsole\exercise.console\obj\Debug\net7.0\exercise.console.dll
+D:\_BooleanDocker\DockerConsole\exercise.console\obj\Debug\net7.0\refint\exercise.console.dll
+D:\_BooleanDocker\DockerConsole\exercise.console\obj\Debug\net7.0\exercise.console.pdb
+D:\_BooleanDocker\DockerConsole\exercise.console\obj\Debug\net7.0\exercise.console.genruntimeconfig.cache
+D:\_BooleanDocker\DockerConsole\exercise.console\obj\Debug\net7.0\ref\exercise.console.dll
